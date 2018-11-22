@@ -5,4 +5,15 @@ a.navbar-brand{
 .navbar-default{
     padding: 10px 0;
     background-color: white;
+    border: 0;
+    margin-bottom: 0;
+}
+
+.header-top-fluid{
+    background-color: aqua;
+}
+
+.header-img{
+    width: 100%;
+    max-width: 291px;
 }
